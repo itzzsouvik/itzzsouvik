@@ -6,7 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzsouvik&label=Profile%20views&color=0e75b6&style=flat" alt="itzzsouvik" /> </p>
 
 
+- 👨🏻‍💻 **Motivated learner focused on solving challenges and driving growth**
 
+- 💻 **Innovating with purpose, guided by data-driven thinking**
+  
 - 💬 Ask me about **Java, OOPs, Database Management System**
 
 - 📫 How to reach me **boombasaha@gmail.com**
