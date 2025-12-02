@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **boombasaha@gmail.com**
 
-- ⚡ Fun fact: **"0" and "1" run the digital world**
+- ⚡ Fun fact: **"0" and "1" run the digital world 👻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
